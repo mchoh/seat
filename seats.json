@@ -1,0 +1,14 @@
+[
+  {
+    "seatNumber": "A1",
+    "status": "assigned"
+  },
+  {
+    "seatNumber": "A2",
+    "status": "unassigned"
+  },
+  {
+    "seatNumber": "A3",
+    "status": "assigned"
+  }
+]
